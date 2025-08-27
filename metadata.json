@@ -1,0 +1,5 @@
+{
+  "name": "OSEP Asistente Médico Virtual",
+  "description": "Un asistente médico virtual para afiliados de OSEP, que brinda orientación de salud, ayuda en diagnósticos preliminares y consejos preventivos, siempre aclarando que no reemplaza la atención médica profesional.",
+  "requestFramePermissions": []
+}
